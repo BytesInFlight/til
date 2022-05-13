@@ -1,4 +1,5 @@
-# NetWitness Windows API Action Values
+# Windows API Action Values
+
 | Action Value | Description |
 | ------------ | ----------- |
 | OpenSCManagerW | Open a connection to the Service Control Manager Write operation |
