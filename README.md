@@ -7,4 +7,4 @@ variety of security topics & technologies.
 
 ### Categories
 
-* [NetWitness](#NetWitness)
+* [NetWitness](https://github.com/BytesInFlight/til/tree/main/NetWitness)
