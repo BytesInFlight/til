@@ -7,4 +7,4 @@ variety of security topics & technologies.
 
 ### Categories
 
-* [NetWitness](#netwitness)
+* [NetWitness](#NetWitness)
