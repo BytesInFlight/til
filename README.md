@@ -7,6 +7,8 @@ variety of security topics & technologies.
 
 ### Categories
 
+* [ExtraHop](https://github.com/BytesInFlight/til/tree/main/ExtraHop)
+	* [Windows API Interfaces & Operations](https://github.com/BytesInFlight/til/blob/main/ExtraHop/windowsapi_mappings.md)
 * [NetWitness](https://github.com/BytesInFlight/til/tree/main/NetWitness)
 	* [Windows API Action Values](https://github.com/BytesInFlight/til/blob/main/NetWitness/windowsapi_mappings.md)
 * [Python](https://github.com/BytesInFlight/til/tree/main/Python)
