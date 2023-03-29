@@ -1,4 +1,6 @@
-# Windows API Action Values
+# Windows API Interfaces & Operations
+
+The following table of Windows interfaces and operations are recognized by ExtraHop protocol parsers
 
 | Interface             | Operation               | Description |
 | ---------             | ---------               | ----------- |
